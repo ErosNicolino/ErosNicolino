@@ -37,22 +37,22 @@ e também construo e mantenho sistemas que **rodam em produção todos os dias**
 
 ## 📊 Dados e Machine Learning
 
-<a href="https://github.com/ErosNicolino/Serverless-Financial-Data-Pipeline-on-AWS"><img src="assets/pipeline.png" width="100%" alt="Financial Data Pipeline"/></a>
+<a href="https://github.com/ErosNicolino/Serverless-Financial-Data-Pipeline-on-AWS"><img src="assets/cards/pipeline.png" width="100%" alt="Financial Data Pipeline"/></a>
 
 **[Financial Data Pipeline](https://github.com/ErosNicolino/Serverless-Financial-Data-Pipeline-on-AWS)** — ETL da B3 orientado a eventos, do dado bruto à consulta analítica, sem servidor ocioso.<br/>
 `AWS Glue` `Lambda` `S3` `Athena`
 
-<a href="https://github.com/ErosNicolino/datathon-7mlet"><img src="assets/recomendacao.png" width="100%" alt="Recomendação Adaptativa"/></a>
+<a href="https://github.com/ErosNicolino/datathon-7mlet"><img src="assets/cards/recomendacao.png" width="100%" alt="Recomendação Adaptativa"/></a>
 
 **[Recomendação Adaptativa](https://github.com/ErosNicolino/datathon-7mlet)** — prioriza a próxima melhor oferta com multi-armed bandits: **66,34%** de conversão simulada.<br/>
 `Thompson Sampling` `FastAPI` `MLflow`
 
-<a href="https://github.com/ErosNicolino/AeroPredict-ML"><img src="assets/aeropredict.png" width="100%" alt="AeroPredict"/></a>
+<a href="https://github.com/ErosNicolino/AeroPredict-ML"><img src="assets/cards/aeropredict.png" width="100%" alt="AeroPredict"/></a>
 
 **[AeroPredict](https://github.com/ErosNicolino/AeroPredict-ML)** — predição de atrasos aéreos com validação estratificada, clusterização e zero vazamento de dados.<br/>
 `Scikit-learn` `K-Means` `Pandas`
 
-<a href="https://github.com/ErosNicolino/PongAI"><img src="assets/pong.png" width="100%" alt="Pong AI"/></a>
+<a href="https://github.com/ErosNicolino/PongAI"><img src="assets/cards/pong.png" width="100%" alt="Pong AI"/></a>
 
 **[Pong AI](https://github.com/ErosNicolino/PongAI)** — agente PPO que aprende a jogar Pong direto dos pixels, treinado por 2 milhões de passos.<br/>
 `PPO` `Stable-Baselines3` `PyTorch`
@@ -63,22 +63,22 @@ e também construo e mantenho sistemas que **rodam em produção todos os dias**
 
 ## 🛠️ Apps e backend
 
-<a href="https://github.com/ErosNicolino/LiveLink-WebRTC"><img src="assets/livelink.png" width="100%" alt="LiveLink"/></a>
+<a href="https://github.com/ErosNicolino/LiveLink-WebRTC"><img src="assets/cards/livelink.png" width="100%" alt="LiveLink"/></a>
 
 **[LiveLink](https://github.com/ErosNicolino/LiveLink-WebRTC)** — o celular vira webcam sem fio para o PC, P2P em tempo real com latência abaixo de 300 ms.<br/>
 `WebRTC` `React` `Node.js` `Socket.io`
 
-<a href="https://github.com/ErosNicolino/Ifood_Manager"><img src="assets/ifood.png" width="100%" alt="iFood Manager"/></a>
+<a href="https://github.com/ErosNicolino/Ifood_Manager"><img src="assets/cards/ifood.png" width="100%" alt="iFood Manager"/></a>
 
 **[iFood Manager](https://github.com/ErosNicolino/Ifood_Manager)** — app desktop de gestão financeira para entregadores, com indicadores e rentabilidade por bairro.<br/>
 `Tauri` `Rust` `React` `SQLite`
 
-<a href="https://battleship-probabilistic-ai.vercel.app"><img src="assets/batalha.png" width="100%" alt="Batalha Naval IA"/></a>
+<a href="https://battleship-probabilistic-ai.vercel.app"><img src="assets/cards/batalha.png" width="100%" alt="Batalha Naval IA"/></a>
 
 **[Batalha Naval IA](https://github.com/ErosNicolino/battleship-probabilistic-ai)** · [demo ↗](https://battleship-probabilistic-ai.vercel.app) — IA que escolhe cada tiro por mapa de probabilidade e heurísticas.<br/>
 `React` `Vite` `Probabilidade`
 
-<a href="https://github.com/ErosNicolino/tech-challenge-books-api"><img src="assets/books.png" width="100%" alt="Books API"/></a>
+<a href="https://github.com/ErosNicolino/tech-challenge-books-api"><img src="assets/cards/books.png" width="100%" alt="Books API"/></a>
 
 **[Books API](https://github.com/ErosNicolino/tech-challenge-books-api)** · [demo ↗](https://tech-challenge-books-api-mkqn.onrender.com) — API REST documentada com scraping automatizado, autenticação JWT e contêiner.<br/>
 `Flask` `Docker` `Swagger` `JWT`
