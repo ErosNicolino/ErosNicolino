@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="CTRL Suite em produção: 1.166 vendas, 245 pedidos, 468 clientes, cerca de 95% mais rápido para achar um pedido">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#110c20"/><stop offset="1" stop-color="#1a1035"/>
+    </linearGradient>
+    <linearGradient id="barra" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7655b8"/><stop offset="1" stop-color="#2fd1c5"/>
+    </linearGradient>
+    <style>
+      .t { font-family: 'Segoe UI', -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .m { font-family: 'Cascadia Code', Consolas, 'SF Mono', Menlo, 'Courier New', monospace; }
+      .card { opacity: 0; animation: entra .8s ease-out forwards }
+      @keyframes entra { from { opacity: 0; transform: translateY(16px) } to { opacity: 1; transform: none } }
+      .b { transform: scaleX(0); animation: enche 1.6s cubic-bezier(.2,.8,.2,1) forwards }
+      @keyframes enche { to { transform: scaleX(1) } }
+      .vivo { animation: vivo 2s ease-in-out infinite }
+      @keyframes vivo { 0%,100% { opacity: 1 } 50% { opacity: .25 } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="1198" height="188" rx="20" fill="url(#bg)" stroke="#7655b8" stroke-opacity=".55" stroke-width="1.5"/>
+
+  <circle class="vivo" cx="40" cy="36" r="5" fill="#2fd1c5"/>
+  <text x="54" y="41" class="m" font-size="13" letter-spacing="2.5" fill="#2fd1c5">EM PRODUÇÃO</text>
+  <text x="182" y="41" class="m" font-size="13" fill="#7d6fa3">· CTRL Suite · 1º set → 12 nov 2026 · números reais do banco</text>
+
+  <g class="card" style="animation-delay:.1s">
+    <text x="40" y="108" class="t" font-size="44" font-weight="800" fill="#ffffff">1.166</text>
+    <text x="40" y="134" class="t" font-size="15" fill="#a99bc9">vendas lançadas no caixa</text>
+    <rect x="40" y="152" width="250" height="5" rx="2.5" fill="#ffffff" fill-opacity=".07"/>
+    <rect class="b" x="40" y="152" width="250" height="5" rx="2.5" fill="url(#barra)" style="transform-origin:40px 0;animation-delay:.3s"/>
+  </g>
+  <g class="card" style="animation-delay:.3s">
+    <text x="330" y="108" class="t" font-size="44" font-weight="800" fill="#ffffff">245</text>
+    <text x="330" y="134" class="t" font-size="15" fill="#a99bc9">pedidos · 213 já entregues</text>
+    <rect x="330" y="152" width="250" height="5" rx="2.5" fill="#ffffff" fill-opacity=".07"/>
+    <rect class="b" x="330" y="152" width="217" height="5" rx="2.5" fill="url(#barra)" style="transform-origin:330px 0;animation-delay:.5s"/>
+  </g>
+  <g class="card" style="animation-delay:.5s">
+    <text x="620" y="108" class="t" font-size="44" font-weight="800" fill="#ffffff">468</text>
+    <text x="620" y="134" class="t" font-size="15" fill="#a99bc9">clientes cadastrados</text>
+    <rect x="620" y="152" width="250" height="5" rx="2.5" fill="#ffffff" fill-opacity=".07"/>
+    <rect class="b" x="620" y="152" width="250" height="5" rx="2.5" fill="url(#barra)" style="transform-origin:620px 0;animation-delay:.7s"/>
+  </g>
+  <g class="card" style="animation-delay:.7s">
+    <text x="910" y="108" class="t" font-size="44" font-weight="800" fill="#ffffff">~95%</text>
+    <text x="910" y="134" class="t" font-size="15" fill="#a99bc9">mais rápido para achar um pedido</text>
+    <rect x="910" y="152" width="250" height="5" rx="2.5" fill="#ffffff" fill-opacity=".07"/>
+    <rect class="b" x="910" y="152" width="237" height="5" rx="2.5" fill="url(#barra)" style="transform-origin:910px 0;animation-delay:.9s"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Obrigado pela visita">
+  <defs>
+    <linearGradient id="o1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7655b8"/><stop offset="1" stop-color="#2fd1c5"/>
+    </linearGradient>
+    <style>
+      .w1 { animation: mar 9s linear infinite }
+      .w2 { animation: mar 14s linear infinite reverse }
+      @keyframes mar { to { transform: translateX(-600px) } }
+      .t { font-family: 'Cascadia Code', Consolas, 'SF Mono', Menlo, 'Courier New', monospace; }
+    </style>
+  </defs>
+  <g opacity=".35" class="w2">
+    <path fill="url(#o1)" d="M0 70 Q150 40 300 70 T600 70 T900 70 T1200 70 T1500 70 T1800 70 V120 H0Z"/>
+  </g>
+  <g opacity=".6" class="w1">
+    <path fill="#1d1040" d="M0 84 Q150 62 300 84 T600 84 T900 84 T1200 84 T1500 84 T1800 84 V120 H0Z"/>
+  </g>
+  <text x="600" y="34" text-anchor="middle" class="t" font-size="14" letter-spacing="3" fill="#9b7be8">OBRIGADO PELA VISITA</text>
+</svg>
