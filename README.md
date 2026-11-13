@@ -35,6 +35,15 @@ e também construo e mantenho sistemas que **rodam em produção todos os dias**
 
 ---
 
+## 🎮 Jogos
+
+<a href="https://eros-nicolino.itch.io/the-world-geneses"><img src="assets/geneses.png" width="100%" alt="The World Gêneses"/></a>
+
+**[The World Gêneses](https://eros-nicolino.itch.io/the-world-geneses)** · [trailer ▶](assets/geneses-trailer.mp4) — RPG de mundo aberto em blocos, solo ou com amigos: nove regiões, seis raças, chefes com fases, vilas com moradores de rotina própria, clima e estações. Migrado do Godot para a Unreal Engine 5.8, com ~74 mil linhas de C++.<br/>
+`Unreal Engine 5` `C++` `Multiplayer (EOS)` `Gameplay Ability System` `Blender`
+
+---
+
 ## 📊 Dados e Machine Learning
 
 <a href="https://github.com/ErosNicolino/Serverless-Financial-Data-Pipeline-on-AWS"><img src="assets/cards/pipeline.png" width="100%" alt="Financial Data Pipeline"/></a>
@@ -97,6 +106,9 @@ e também construo e mantenho sistemas que **rodam em produção todos os dias**
 
 **Aplicações**<br/><br/>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,nodejs,rust,tauri,vite&perline=4&theme=dark" alt="C#, .NET, TypeScript, React, Node.js, Rust, Tauri, Vite"/>
+
+**Jogos**<br/><br/>
+<img src="https://skillicons.dev/icons?i=unreal,cpp,blender,godot&theme=dark" alt="Unreal Engine, C++, Blender, Godot"/>
 
 </div>
 
